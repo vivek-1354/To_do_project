@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  position: absolute;
+  width: 500px;
+  top:20vh;
+  left:35vw;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.all-todos {
+  border: 2px solid red;
+  display: flex;
+  width: auto;
+  height: 50px;
+  margin: 10px;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+
+
